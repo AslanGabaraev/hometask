@@ -1,0 +1,146 @@
+.header__wr
+{
+    background-image: url(..//imgs/bg.svg);
+    background-repeat: no-repeat;
+}
+.header
+{
+    display: flex;
+    align-items: center;
+}
+
+.header__text
+{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 143%;
+    color: #fff;
+    margin: 47px 550px 41px 370px;
+}
+.header__info-text
+{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 150%;
+    color: #fff;    
+}
+.header__info-column
+{
+    display: flex;
+    flex-direction: column;
+}
+.header__info-img
+{ 
+    margin-right: 15px;
+    padding: 3px 0px;
+    max-width: 17px;
+    max-height: 23px; 
+}
+.header__info-number
+{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 152%;
+    color: #fff; 
+}
+.header__info
+{
+    display: flex;
+}
+.header__info:nth-child(2)
+{
+    margin-right: 60px ;
+}
+/* .header__info:nth-child(2)
+{
+    margin: 46px 69px 37px 550px;
+}
+.header__info:nth-child(3)
+{
+    margin: 37px 370px 31px 69px;
+} */
+.line
+{
+    border: 1px solid #28203b;
+    max-width: 1920px;
+    max-height: 0px;
+}
+.hero__section
+{
+    display: flex;
+    flex-direction: column;
+    margin: 198px 903px 465px 370px;
+}
+.hero__section-text-main
+{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 125%;
+    letter-spacing: -0.02em;
+    color: #fff;
+}
+.hero__section-text
+{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 143%;
+    color: #fff;
+}
+.info__button
+{
+    font-family: "Montserrat", sans-serif;
+    border-radius: 5px;
+    background-color: #f2f6fa;;
+    border: none;
+}
+.info__button.hero__section-button
+{
+    padding: 10px 18px;
+    max-width: 132px;
+    max-height: 37px;
+}
+.g__button
+{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 152%;
+    color: #2e363e;
+    background: #fed84c;
+    border-radius: 8px;
+}
+.g__button.g__button-hero
+{
+    padding: 30px 50px;
+    max-width: 277px;
+    max-height: 88px;
+}
+.hero__section-block
+{
+    display: flex;
+    align-items: center;
+}
+.hero__section-descryption
+{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 160%;
+    color: #fff;
+}
+.header__text_lower
+{
+    font-family: "Montserrat", sans-serif;
+    margin: 0 auto;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 125%;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: #2e363e;
+}
