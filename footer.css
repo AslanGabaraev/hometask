@@ -1,0 +1,98 @@
+.upperfooter__text
+{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 133%;
+    text-align: center;
+    color: #2e363e;
+    margin-bottom: 12px;
+}
+.upperfooter_descryption
+{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 143%;
+    letter-spacing: -0.01em;
+    text-align: center;
+    color: #2e363e;
+    margin-bottom: 36px;
+}
+.upperfooter__section
+{
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    margin: 300px 370px 80px 370px;
+    border-radius: 8px;
+    padding: 70px 99px;
+    align-items: center;
+}
+.upperfooter__block
+{
+    display: flex;
+    gap: 20px;
+    margin-bottom: 24px;
+}
+.upperfooter__button
+{
+    display: flex;
+}
+.g__button.g__button-footer
+{
+    padding: 29px 41px;
+}
+.upperfooter__block-input
+{
+    border-radius: 8px;
+    padding: 16px 21px;
+    max-width: 380px;
+}
+.upperfooter__button-text
+{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 130%;
+    color: #7e868e;
+    margin-left: 7px;
+}
+footer
+{
+    background-image: url(..//imgs/Горизонтальная\ форма.svg);
+    padding-top: 1px;
+}
+
+.footer__section
+{
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+    align-items: center;
+}
+.footer__link_wr
+{
+    display: flex;
+    gap: 43px;
+    align-items: center;
+}
+.footer__links
+{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 150%;
+    text-align: right;
+    color: #7e868e;
+    text-decoration: none;
+}
+.footer_copyright
+{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 150%;
+    text-align: center;
+    color: #7e868e;
+}
